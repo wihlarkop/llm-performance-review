@@ -1,0 +1,22 @@
+{
+  "employee_id": "EMP-12345",
+  "date": "2025-01-15",
+  "notes": [
+    {
+      "topic": "Performance Review",
+      "discussion": "Discussed progress on the authentication module. The employee is on track and shows a strong understanding of security principles."
+    },
+    {
+      "topic": "Challenges",
+      "discussion": "Identified challenges with database optimization. The employee is working on refactoring and has suggested potential improvements."
+    },
+    {
+      "topic": "Goals",
+      "discussion": "Set a goal to complete the database optimization task by the end of the sprint and improve test coverage for critical modules."
+    },
+    {
+      "topic": "Feedback",
+      "discussion": "Positive feedback on proactive communication and willingness to assist other team members."
+    }
+  ]
+}

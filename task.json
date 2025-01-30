@@ -1,0 +1,50 @@
+{
+  "sprint_id": "Sprint-2025-01",
+  "tasks": [
+    {
+      "task_id": "TASK-001",
+      "title": "Implement user authentication",
+      "description": "Develop a secure authentication system with JWT tokens.",
+      "status": "Completed",
+      "created_at": "2025-01-01",
+      "started_at": "2025-01-02",
+      "completed_at": "2025-01-05",
+      "duration": "3 days",
+      "points": 8
+    },
+    {
+      "task_id": "TASK-002",
+      "title": "Create REST API for user management",
+      "description": "Develop CRUD endpoints for managing user profiles.",
+      "status": "Completed",
+      "created_at": "2025-01-01",
+      "started_at": "2025-01-03",
+      "completed_at": "2025-01-07",
+      "duration": "4 days",
+      "points": 5
+    },
+    {
+      "task_id": "TASK-003",
+      "title": "Optimize database queries",
+      "description": "Refactor and optimize queries for faster data retrieval.",
+      "status": "In Progress",
+      "created_at": "2025-01-02",
+      "started_at": "2025-01-05",
+      "completed_at": null,
+      "duration": "2 days (ongoing)",
+      "points": 3
+    },
+    {
+      "task_id": "TASK-004",
+      "title": "Write unit tests for authentication module",
+      "description": "Ensure coverage of all critical paths in the authentication module.",
+      "status": "Pending",
+      "created_at": "2025-01-04",
+      "started_at": null,
+      "completed_at": null,
+      "duration": "Not started",
+      "points": 2
+    }
+  ],
+  "sprint_review": "The team completed key tasks related to user authentication and user management APIs. Some optimization tasks are still in progress."
+}
